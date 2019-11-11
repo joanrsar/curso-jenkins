@@ -1,3 +1,3 @@
 # Platzi Scripts
 
-Hola Joan
+Hola Joan Rincon
