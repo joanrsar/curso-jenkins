@@ -1,1 +1,3 @@
-# curso-jenkins
+# Platzi Scripts
+
+Hola Joan
